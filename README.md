@@ -91,4 +91,8 @@ Moreover, this task taught me how to navigate and manage files using Eclipse IDE
 
 In conclusion, the File Handling Utility task gave me practical exposure to Java file operations and how they can be implemented efficiently using simple logic and built-in Java classes. 
 
+OUTPUT 
+
+[myfile.txt](https://github.com/user-attachments/files/20540170/myfile.txt)
+
 
